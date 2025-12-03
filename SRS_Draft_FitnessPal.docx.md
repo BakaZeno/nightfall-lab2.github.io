@@ -105,7 +105,7 @@ Rajamangala University of Technology Lanna
 
 [**5\. Glossary	16**](#heading=)
 
-[**การใช้งาน Template นี้	17**](#heading=)
+	
 
 # **1\. Introduction**
 
