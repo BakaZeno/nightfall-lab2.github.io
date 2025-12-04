@@ -53,8 +53,8 @@
 - [User Interview Notes](./docs/interview_notes.md)
 
 ## 🌐 Demo
-- **Live Demo:** [https://bakazeno.github.io/nightfall-lab2.github.io](https://bakazeno.github.io/nightfall-lab2.github.io) (ถ้า deploy แล้ว)
-- **GitHub Pages:** Coming soon...
+- **Live Demo:** [https://bakazeno.github.io/nightfall-lab2.github.io](https://bakazeno.github.io/nightfall-lab2.github.io)
+- **GitHub Pages:** [https://github.com/BakaZeno/nightfall-lab2.github.io](https://github.com/BakaZeno/nightfall-lab2.github.io)
 
 ## 🏃‍♂️ How to Run Locally
 ```bash
